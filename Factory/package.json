@@ -1,0 +1,13 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}

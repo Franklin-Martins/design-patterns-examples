@@ -16,4 +16,4 @@
 
 #### Below are the sources I read from and suggestions for reading
 
-#### fonts: https://www.opus-software.com.br/design-patterns/ && http://www.princiweb.com.br/blog/programacao/design-patterns/o-que-sao-design-patterns.html#:~:text=Structural%20Patterns%20(Padr%C3%B5es%20Estruturais)%3A,de%20responsabilidade%20e%20de%20algoritimos.
+#### fonts: [opus-software](https://www.opus-software.com.br/design-patterns/) && [princiweb](http://www.princiweb.com.br/blog/programacao/design-patterns/o-que-sao-design-patterns.html#:~:text=Structural%20Patterns%20(Padr%C3%B5es%20Estruturais)%3A,de%20responsabilidade%20e%20de%20algoritimos.)
